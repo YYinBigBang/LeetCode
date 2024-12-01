@@ -8,6 +8,7 @@ class Solution1(object):
         def binary_recursion(left, right):
             if left > right:
                 return -1
+            # prevents overflow in midpoint calculation
             mid = left + (right - left) // 2
 
             if nums[mid] > target:
@@ -30,6 +31,7 @@ class Solution2(object):
         left = 0
         right = len(nums) - 1
         while left <= right:
+            # prevents overflow in midpoint calculation
             mid = left + (right - left) // 2
             if nums[mid] > target:
                 right = mid - 1
