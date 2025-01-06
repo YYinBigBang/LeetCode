@@ -8,7 +8,7 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| Easy       | 25              |
+| Easy       | 26              |
 | Medium     | 3               |
 | Hard       | 0               |
 
@@ -16,12 +16,12 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 
 ## Detailed List of Solved Problems
 
-
 ### Easy
 (#1) [Two Sum](https://leetcode.com/problems/two-sum)  
 (#9) [Palindrome Number](https://leetcode.com/problems/palindrome-number)  
 (#20) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  
 (#21) [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  
+(#26) [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  
 (#35) [Search Insert Position](https://leetcode.com/problems/search-insert-position)  
 (#58) [Length of Last Word](https://leetcode.com/problems/length-of-last-word)  
 (#66) [Plus One](https://leetcode.com/problems/plus-one)  
@@ -52,6 +52,7 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 
 
 ### Hard
+No problems solved yet.
 
 
 ---
