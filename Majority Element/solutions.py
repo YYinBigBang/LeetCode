@@ -19,3 +19,31 @@ class Solution1(object):
             if count > avg:
                 return element
 
+
+class Solution1(object):
+    def majorityElement(self, nums):
+        """
+        Boyer-Moore Voting Algorithm:
+        Finds the majority element by maintaining a single candidate and a vote counter.
+        It incrementally adjusts the vote based on whether the current element matches the candidate,
+        ensuring that the majority element dominates by the end.
+        """
+
+        count = 0
+        candidate = None
+
+        for num in nums:
+            # If count is 0, then the current element is the candidate
+            if count == 0:
+                candidate = num
+                count += 1
+
+            # If the current element is the same as the candidate, increment the count
+            elif num == candidate:
+                count += 1
+
+            # If the current element is different from the candidate, decrement the count
+            else:
+                count -= 1
+
+        return candidate
