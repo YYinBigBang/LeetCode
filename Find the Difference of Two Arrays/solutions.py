@@ -20,4 +20,3 @@ class Solution(object):
 
         return [list1, list2]
 
-    
