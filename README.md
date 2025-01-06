@@ -11,6 +11,7 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 | Easy       | 26              |
 | Medium     | 3               |
 | Hard       | 0               |
+| **Total**  | **29**          |
 
 ---
 
