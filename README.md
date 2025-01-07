@@ -8,10 +8,10 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| Easy       | 26              |
-| Medium     | 3               |
-| Hard       | 0               |
-| **Total**  | **29**          |
+| Easy       | 27              |
+| Medium     | 4               |
+| Hard       | 1               |
+| **Total**  | **32**          |
 
 ---
 
@@ -40,6 +40,7 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 (#206) [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  
 (#217) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  
 (#226) [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  
+(#383) [Ransom Note](https://leetcode.com/problems/ransom-note)  
 (#392) [Is Subsequence](https://leetcode.com/problems/is-subsequence)  
 (#704) [Binary Search](https://leetcode.com/problems/binary-search)  
 (#1346) [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)  
@@ -50,10 +51,11 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 (#53) [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  
 (#102) [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  
 (#122) [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)  
+(#189) [Rotate Array](https://leetcode.com/problems/rotate-array)  
 
 
 ### Hard
-No problems solved yet.
+(#135) [Candy](https://leetcode.com/problems/candy)  
 
 
 ---
