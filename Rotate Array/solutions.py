@@ -15,7 +15,7 @@ class Solution1(object):
         # Copy the rotated elements to the original list
         nums[:] = temp
 
-        return 
+        return
 
 
 class Solution2(object):
