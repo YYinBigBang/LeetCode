@@ -8,10 +8,10 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| Easy       | 27              |
+| Easy       | 28              |
 | Medium     | 4               |
 | Hard       | 1               |
-| **Total**  | **32**          |
+| **Total**  | **33**          |
 
 ---
 
@@ -40,6 +40,7 @@ This README tracks my progress on LeetCode, categorizing problems by difficulty:
 (#206) [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  
 (#217) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  
 (#226) [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  
+(#290) [Word Pattern](https://leetcode.com/problems/word-pattern)  
 (#383) [Ransom Note](https://leetcode.com/problems/ransom-note)  
 (#392) [Is Subsequence](https://leetcode.com/problems/is-subsequence)  
 (#704) [Binary Search](https://leetcode.com/problems/binary-search)  
